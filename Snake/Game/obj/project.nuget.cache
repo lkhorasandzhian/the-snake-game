@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uMP88Vb4onH8ezPyN73utXGC584gnx1VuYim2aBkBSqub4f0CxoF7HUz7v48IqokcJEEyhCjMAq8VW+V0CSydw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Levon0\\source\\repos\\CSharp\\Snake\\Game\\Game.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Levon0\\.nuget\\packages\\fsharp.core\\6.0.6\\fsharp.core.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

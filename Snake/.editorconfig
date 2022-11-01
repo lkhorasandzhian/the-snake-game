@@ -1,0 +1,7 @@
+root = true
+
+# F-sharp config
+[*fs]
+indent_style = space
+indent_size = space
+space_size = 4
